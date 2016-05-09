@@ -20,6 +20,7 @@
     NSLog(@"asda");
     NSLog(@"fsd");
     NSLog(@"dfgs");
+    NSLog(@"new03");
 }
 
 - (void)didReceiveMemoryWarning {
